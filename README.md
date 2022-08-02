@@ -19,7 +19,7 @@ Skills: ANGULAR JS / REACT / JS / HTML / CSS / JAVA / C / PYTHON
 <a href="https://www.youtube.com/channel/UCbd1uKhJjGQMR2f9Jzb_00A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/UCbd1uKhJjGQMR2f9Jzb_00A" height="30" width="40" /></a>
 </p>
   
-<p align="left"> <a href="https://twitter.com/AdithyaKarunar2" target="blank"><img src="https://img.shields.io/twitter/follow/imNaviya?logo=twitter&style=for-the-badge" alt="Adithya Karunarathna" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AdithyaKarunar2" target="blank"><img src="https://img.shields.io/twitter/follow/Adithya Karunarathna?logo=twitter&style=for-the-badge" alt="Adithya Karunarathna" /></a> </p>
 
 <h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
@@ -30,11 +30,11 @@ Skills: ANGULAR JS / REACT / JS / HTML / CSS / JAVA / C / PYTHON
 
   <br>
   
-[![Naveen Mayantha's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=naveen-98&theme=rogue)](https://git.io/praveenscience)
+[![Adithya Karunarathna's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahiru60&theme=rogue)](https://git.io/praveenscience)
 
-| ![Naveen Mayantha's github stats](https://github-readme-stats.vercel.app/api?username=naveen-98&show_icons=true&theme=tokyonight) | ![Naveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveen-98&theme=tokyonight) |
+| ![Adithya Karunarathna's github stats](https://github-readme-stats.vercel.app/api?username=ahiru60&show_icons=true&theme=tokyonight) | ![Adithya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahiru60&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-98&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=naveen-98&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahiru60&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ahiru60&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
               
