@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Adithya from Sri Lanka. I do many things actually which yet i cant quent figue out. I'm currently a undergraduate
+
+[![SimplyProgger's Github Stats](https://enigmatic-harbor-42642.herokuapp.com/?name=ahiru60)](https://enigmatic-harbor-42642.herokuapp.com/?name=ahiru60)
+
 <!--
 **ahiru60/ahiru60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
