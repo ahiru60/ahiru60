@@ -15,12 +15,11 @@ Skills: ANGULAR JS / REACT / JS / HTML / CSS / JAVA / C / PYTHON
 <p align="left">
 <a href="https://twitter.com/@AdithyaKarunar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AdithyaKarunar2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adithya-karunarathna-7ba631193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-karunarathna-7ba631193/" height="30" width="40" /></a>
-<a href="https://fb.com/naveen.wijesingha.180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naveen.wijesingha.180/" height="30" width="40" /></a>
-<a href="https://instagram.com/iam_naviya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_naviya/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCQT5cNh5d7hc69nbCCIPmwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucqt5cnh5d7hc69nbccipmwa/featured" height="30" width="40" /></a>
+<a href="https://www.facebook.com/adhirunath.hiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adhirunath.hiru/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCbd1uKhJjGQMR2f9Jzb_00A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/UCbd1uKhJjGQMR2f9Jzb_00A" height="30" width="40" /></a>
 </p>
   
-<p align="left"> <a href="https://twitter.com/imNaviya" target="blank"><img src="https://img.shields.io/twitter/follow/imNaviya?logo=twitter&style=for-the-badge" alt="imNaviya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AdithyaKarunar2" target="blank"><img src="https://img.shields.io/twitter/follow/imNaviya?logo=twitter&style=for-the-badge" alt="Adithya Karunarathna" /></a> </p>
 
 <h2> Skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
