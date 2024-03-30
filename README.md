@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adithyakarunar2" target="blank"><img src="https://img.shields.io/twitter/follow/adithyakarunar2?logo=twitter&style=for-the-badge" alt="adithyakarunar2" /></a> </p>
 
-- 🌱 I’m currently learning **php, angular, react, R**
+- 🌱 I’m currently learning **react, kotlin**
 
 - 👯 I’m looking to collaborate on **none**
 
